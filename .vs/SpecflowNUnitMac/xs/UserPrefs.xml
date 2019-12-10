@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{92828E22-A3BF-41E0-9E0A-CF7D7EC45011}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpecflowNUnitMac/ReadMe.md">
+    <Files>
+      <File FileName="SpecflowNUnitMac/Steps/TestSteps.cs" Line="118" Column="162" />
+      <File FileName="SpecflowNUnitMac/Features/Exercise1.feature" Line="8" Column="28" />
+      <File FileName="SpecflowNUnitMac/Features/Exercise2.feature" Line="10" Column="32" />
+      <File FileName="SpecflowNUnitMac/ReadMe.md" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SpecflowNUnitMac" expanded="True">
+            <Node name="SpecflowNUnitMac" expanded="True">
+              <Node name="ReadMe.md" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SpecflowNUnitMac" expanded="True">
+            <Node name="SpecflowNUnitMac" expanded="True">
+              <Node name="SpecflowNUnitMac" expanded="True">
+                <Node name="ExpediaFeature" expanded="True" />
+                <Node name="GoogleFeature" expanded="True">
+                  <Node name="ToCreateATestAutomationScriptWhichOpensGoogleAndSearches" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SpecflowNUnitMac PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
